@@ -1,138 +1,49 @@
 {
   "videos": [
     {
-      "id": "hguygu",
-      "caption": "hgguyguy",
-      "url": "uygyuguy",
-      "embedlink": "https://www.youtube.com/embed/giuggiuugiu"
+      "id": "1",
+      "caption": "nature",
+      "url": "https://www.bsr.org/images/heroes/bsr-focus-nature-hero.jpg",
+      "embedlink": "https://www.youtube.com/embed/BHACKCNDMW8"
     },
     {
-      "id": "hggj",
-      "caption": "hj",
-      "url": "ggyu",
-      "embedlink": "https://www.youtube.com/embed/giguigi"
+      "id": "2",
+      "caption": "Rainy cafe",
+      "url": "https://i.ytimg.com/vi/pV_uptrUo8k/maxresdefault.jpg",
+      "embedlink": "https://www.youtube.com/embed/NJuSStkIZBg"
     },
     {
-      "id": "hihiiu",
-      "caption": "jijhkj",
-      "url": "kjnjk",
-      "embedlink": "https://www.youtube.com/embed/jhkjhjjhkkj"
-    },
-    {
-      "id": "ggjhghj",
-      "caption": "jhhjghj",
-      "url": "bhhjghjgjh",
-      "embedlink": "https://www.youtube.com/embed/hgugjhghgjh"
-    },
-    {
-      "id": "jhbhjhb",
-      "caption": "jhghjgjhjg",
-      "url": "lkjjl",
-      "embedlink": "https://www.youtube.com/embed/khhkjj"
-    },
-    {
-      "id": "jjkhk",
-      "caption": "kjhjkhkkjh",
-      "url": "xxfggf",
-      "embedlink": "https://www.youtube.com/embed/vhjvnvnn"
-    },
-    {
-      "id": "bkjbjkhk",
-      "caption": "jkhkjhjjk",
-      "url": "kkkljlkjlkjlkjkl",
-      "embedlink": "https://www.youtube.com/embed/jbjkhjkhk"
+      "id": "3",
+      "caption": "Let me down",
+      "url": "https://i1.sndcdn.com/artworks-sCCOGk34xlHWeRNN-PBAgKQ-t500x500.jpg",
+      "embedlink": "https://www.youtube.com/embed/jLNrvmXboj8"
     }
   ],
   "categories": [
     {
-      "categoryName": "bhjhj",
+      "categoryName": "Favorites",
       "allVideos": [
         {
-          "id": "bkjbjkhk",
-          "caption": "jkhkjhjjk",
-          "url": "kkkljlkjlkjlkjkl",
-          "embedlink": "https://www.youtube.com/embed/jbjkhjkhk"
+          "id": "3",
+          "caption": "Let me down",
+          "url": "https://i1.sndcdn.com/artworks-sCCOGk34xlHWeRNN-PBAgKQ-t500x500.jpg",
+          "embedlink": "https://www.youtube.com/embed/jLNrvmXboj8"
         }
       ],
-      "id": 3
+      "id": 1
     },
     {
-      "categoryName": "bjhbjb",
+      "categoryName": "Nature",
       "allVideos": [
         {
-          "id": "kjhjhkjhj",
-          "caption": "bbmnbmn",
-          "url": "hjhjghgh",
-          "embedlink": "https://www.youtube.com/embed/hjkhkhjkhjk"
+          "id": "1",
+          "caption": "nature",
+          "url": "https://www.bsr.org/images/heroes/bsr-focus-nature-hero.jpg",
+          "embedlink": "https://www.youtube.com/embed/BHACKCNDMW8"
         }
       ],
-      "id": 4
-    },
-    {
-      "categoryName": "bjkhj",
-      "allVideos": [],
-      "id": 5
-    },
-    {
-      "categoryName": "hh",
-      "allVideos": [],
-      "id": 6
+      "id": 2
     }
   ],
-  "history": [
-    {
-      "caption": "nature",
-      "embedlink": "https://www.youtube.com/embed/llY7yAXr0p0",
-      "timeiStamp": "10/17/2023, 05:34:02 PM",
-      "id": 3
-    },
-    {
-      "caption": "nature",
-      "embedlink": "https://www.youtube.com/embed/llY7yAXr0p0",
-      "timeiStamp": "10/18/2023, 12:01:08 AM",
-      "id": 4
-    },
-    {
-      "caption": "leo",
-      "embedlink": "https://www.youtube.com/embed/kcTV3G-Wi34",
-      "timeiStamp": "10/18/2023, 12:05:45 AM",
-      "id": 5
-    },
-    {
-      "caption": "epic emotions",
-      "embedlink": "https://www.youtube.com/embed/XMzm83xUXEU",
-      "timeiStamp": "10/18/2023, 12:06:12 AM",
-      "id": 6
-    },
-    {
-      "caption": "nature",
-      "embedlink": "https://www.youtube.com/embed/llY7yAXr0p0",
-      "timeiStamp": "10/18/2023, 11:51:30 PM",
-      "id": 7
-    },
-    {
-      "caption": "epic emotions",
-      "embedlink": "https://www.youtube.com/embed/XMzm83xUXEU",
-      "timeiStamp": "10/19/2023, 12:20:27 AM",
-      "id": 8
-    },
-    {
-      "caption": "nature",
-      "embedlink": "https://www.youtube.com/embed/llY7yAXr0p0",
-      "timeiStamp": "10/19/2023, 12:25:01 AM",
-      "id": 9
-    },
-    {
-      "caption": "nature",
-      "embedlink": "https://www.youtube.com/embed/llY7yAXr0p0",
-      "timeiStamp": "10/19/2023, 12:25:31 AM",
-      "id": 10
-    },
-    {
-      "caption": "epic emotions",
-      "embedlink": "https://www.youtube.com/embed/XMzm83xUXEU",
-      "timeiStamp": "10/19/2023, 12:25:36 AM",
-      "id": 11
-    }
-  ]
+  "history": []
 }
