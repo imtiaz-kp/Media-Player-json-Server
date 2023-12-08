@@ -2,48 +2,229 @@
   "videos": [
     {
       "id": "1",
-      "caption": "nature",
-      "url": "https://www.bsr.org/images/heroes/bsr-focus-nature-hero.jpg",
-      "embedlink": "https://www.youtube.com/embed/BHACKCNDMW8"
+      "caption": "Let Me Down",
+      "url": "https://upload.wikimedia.org/wikipedia/en/8/82/Alec_Benjamin_and_Alessia_Cara_%E2%80%93_Let_Me_Down_Slowly.png",
+      "embedlink": "https://www.youtube.com/embed/s-bZD3O3P80"
     },
     {
       "id": "2",
-      "caption": "Rainy cafe",
-      "url": "https://i.ytimg.com/vi/pV_uptrUo8k/maxresdefault.jpg",
-      "embedlink": "https://www.youtube.com/embed/NJuSStkIZBg"
+      "caption": "Sun Shine Love",
+      "url": "https://i.pinimg.com/736x/35/63/c6/3563c6dc9a84b3273c2bfaec4d93e3e8.jpg",
+      "embedlink": "https://www.youtube.com/embed/yNIdRjLJoVs"
     },
     {
       "id": "3",
-      "caption": "Let me down",
-      "url": "https://i1.sndcdn.com/artworks-sCCOGk34xlHWeRNN-PBAgKQ-t500x500.jpg",
-      "embedlink": "https://www.youtube.com/embed/jLNrvmXboj8"
+      "caption": "Faded",
+      "url": "https://m.media-amazon.com/images/M/MV5BZTUyYWI4Y2EtZGQ2MC00NDNiLTg3N2UtMWMwY2I1ZTViYzA4XkEyXkFqcGdeQXVyMTY5MDE5NA@@._V1_FMjpg_UX1000_.jpg",
+      "embedlink": "https://www.youtube.com/embed/60ItHLz5WEA"
+    },
+    {
+      "id": "4",
+      "caption": "On My Way",
+      "url": "https://i.ytimg.com/vi/llGQMlkgkpk/maxresdefault.jpg",
+      "embedlink": "https://www.youtube.com/embed/c4dwkAXG3ec"
+    },
+    {
+      "id": "5",
+      "caption": "Rockabye",
+      "url": "https://i.ytimg.com/vi/eOYwdsp8OOs/sddefault.jpg",
+      "embedlink": "https://www.youtube.com/embed/1Ig_-tfwC9g"
+    },
+    {
+      "id": "6",
+      "caption": "Akon-Beautiful",
+      "url": "https://i.ytimg.com/vi/jPFCMrDf5kk/maxresdefault.jpg",
+      "embedlink": "https://www.youtube.com/embed/DHo8bNXv8V8"
+    },
+    {
+      "id": "7",
+      "caption": "Troublemaker | Akon",
+      "url": "https://i.ytimg.com/vi/_1IealhWZfs/hqdefault.jpg",
+      "embedlink": "https://www.youtube.com/embed/_1IealhWZfs"
+    },
+    {
+      "id": "8",
+      "caption": "Broken Angel",
+      "url": "https://c.saavncdn.com/309/Broken-Angel-English-2014-500x500.jpg",
+      "embedlink": "https://www.youtube.com/embed/h6blcGIGa5Y"
+    },
+    {
+      "id": "9",
+      "caption": "Tera Mera Rishta Purana",
+      "url": "https://i.ytimg.com/vi/pniEskH9Peg/sddefault.jpg",
+      "embedlink": "https://www.youtube.com/embed/AHljcV2lO2g"
+    },
+    {
+      "id": "10",
+      "caption": "Zara Sa ",
+      "url": "https://i.ytimg.com/vi/qC6br1XG69U/maxresdefault.jpg",
+      "embedlink": "https://www.youtube.com/embed/qC6br1XG69U"
+    },
+    {
+      "id": "11",
+      "caption": "Galliyan ",
+      "url": "https://i.ytimg.com/vi/6Unba2gv2No/maxresdefault.jpg",
+      "embedlink": "https://www.youtube.com/embed/S4QPHbsDP7Y"
+    },
+    {
+      "id": "12",
+      "caption": "Kya mujhe pyar hai ",
+      "url": "https://i.ytimg.com/vi/PFIQ7xXHBRY/maxresdefault.jpg",
+      "embedlink": "https://www.youtube.com/embed/Rid5Mj2J8xk"
+    },
+    {
+      "id": "13",
+      "caption": "Labon Ko",
+      "url": "https://i.ytimg.com/vi/Qbc1CMVyzzA/maxresdefault.jpg",
+      "embedlink": "https://www.youtube.com/embed/3OYrJWVx7F0"
+    },
+    {
+      "id": "14",
+      "caption": "Jeene Laga Hoon",
+      "url": "https://i.ytimg.com/vi/PNsXyZ2NOwk/maxresdefault.jpg",
+      "embedlink": "https://www.youtube.com/embed/4P7c8LRO0DU"
+    },
+    {
+      "id": "15",
+      "caption": "Hua Hain Aaj Pehli Baar ",
+      "url": "https://i.ytimg.com/vi/qyEs-dSTWdY/sddefault.jpg",
+      "embedlink": "https://www.youtube.com/embed/NFbCjGvdG2o"
+    },
+    {
+      "id": "16",
+      "caption": "Thoda Thoda Pyaar ",
+      "url": "https://i.ytimg.com/vi/jkIwOkvWDMM/maxresdefault.jpg",
+      "embedlink": "https://www.youtube.com/embed/RGsJn58Q4cY"
+    },
+    {
+      "id": "17",
+      "caption": "Hasi Ban Gaye",
+      "url": "https://i.ytimg.com/vi/GTLqa1-2-4c/maxresdefault.jpg",
+      "embedlink": "https://www.youtube.com/embed/F44ug04SzQA"
+    },
+    {
+      "id": "18",
+      "caption": "𝗜𝗱𝗵𝗮𝘇𝗵𝗶𝗻 𝗢𝗿𝗮𝗺  ",
+      "url": "https://i.ytimg.com/vi/UDH7Qud8Mas/hq720.jpg?sqp=-oaymwE7CK4FEIIDSFryq4qpAy0IARUAAAAAGAElAADIQj0AgKJD8AEB-AH-CYAC0AWKAgwIABABGD0gQih_MA8=&rs=AOn4CLDkvSUm8Q1EtGTOMRnM5Z5BlCFY1Q",
+      "embedlink": "https://www.youtube.com/embed/UDH7Qud8Mas"
+    },
+    {
+      "id": "19",
+      "caption": "Kabhi Jo Badal Barse",
+      "url": "https://i.ytimg.com/vi/pxh_kjgo6T4/maxresdefault.jpg",
+      "embedlink": "https://www.youtube.com/embed/56ukmW2GBs8"
+    },
+    {
+      "id": "20",
+      "caption": "Animals x Starboy",
+      "url": "https://i.ytimg.com/vi/qmBVxGd--uA/maxresdefault.jpg",
+      "embedlink": "https://www.youtube.com/embed/CsfixqVIafM"
     }
   ],
   "categories": [
     {
-      "categoryName": "Favorites",
+      "categoryName": "English songs",
       "allVideos": [
         {
+          "id": "1",
+          "caption": "Let Me Down",
+          "url": "https://upload.wikimedia.org/wikipedia/en/8/82/Alec_Benjamin_and_Alessia_Cara_%E2%80%93_Let_Me_Down_Slowly.png",
+          "embedlink": "https://www.youtube.com/embed/s-bZD3O3P80"
+        },
+        {
+          "id": "2",
+          "caption": "Sun Shine Love",
+          "url": "https://i.pinimg.com/736x/35/63/c6/3563c6dc9a84b3273c2bfaec4d93e3e8.jpg",
+          "embedlink": "https://www.youtube.com/embed/yNIdRjLJoVs"
+        },
+        {
           "id": "3",
-          "caption": "Let me down",
-          "url": "https://i1.sndcdn.com/artworks-sCCOGk34xlHWeRNN-PBAgKQ-t500x500.jpg",
-          "embedlink": "https://www.youtube.com/embed/jLNrvmXboj8"
+          "caption": "Faded",
+          "url": "https://m.media-amazon.com/images/M/MV5BZTUyYWI4Y2EtZGQ2MC00NDNiLTg3N2UtMWMwY2I1ZTViYzA4XkEyXkFqcGdeQXVyMTY5MDE5NA@@._V1_FMjpg_UX1000_.jpg",
+          "embedlink": "https://www.youtube.com/embed/60ItHLz5WEA"
+        },
+        {
+          "id": "4",
+          "caption": "On My Way",
+          "url": "https://i.ytimg.com/vi/llGQMlkgkpk/maxresdefault.jpg",
+          "embedlink": "https://www.youtube.com/embed/c4dwkAXG3ec"
+        },
+        {
+          "id": "5",
+          "caption": "Rockabye",
+          "url": "https://i.ytimg.com/vi/eOYwdsp8OOs/sddefault.jpg",
+          "embedlink": "https://www.youtube.com/embed/1Ig_-tfwC9g"
+        },
+        {
+          "id": "6",
+          "caption": "Akon-Beautiful",
+          "url": "https://i.ytimg.com/vi/jPFCMrDf5kk/maxresdefault.jpg",
+          "embedlink": "https://www.youtube.com/embed/DHo8bNXv8V8"
         }
       ],
       "id": 1
     },
     {
-      "categoryName": "Nature",
+      "categoryName": "Hindi songs",
       "allVideos": [
         {
-          "id": "1",
-          "caption": "nature",
-          "url": "https://www.bsr.org/images/heroes/bsr-focus-nature-hero.jpg",
-          "embedlink": "https://www.youtube.com/embed/BHACKCNDMW8"
+          "id": "9",
+          "caption": "Tera Mera Rishta Purana",
+          "url": "https://i.ytimg.com/vi/pniEskH9Peg/sddefault.jpg",
+          "embedlink": "https://www.youtube.com/embed/AHljcV2lO2g"
+        },
+        {
+          "id": "10",
+          "caption": "Zara Sa ",
+          "url": "https://i.ytimg.com/vi/qC6br1XG69U/maxresdefault.jpg",
+          "embedlink": "https://www.youtube.com/embed/qC6br1XG69U"
+        },
+        {
+          "id": "11",
+          "caption": "Galliyan ",
+          "url": "https://i.ytimg.com/vi/6Unba2gv2No/maxresdefault.jpg",
+          "embedlink": "https://www.youtube.com/embed/S4QPHbsDP7Y"
+        },
+        {
+          "id": "12",
+          "caption": "Kya mujhe pyar hai ",
+          "url": "https://i.ytimg.com/vi/PFIQ7xXHBRY/maxresdefault.jpg",
+          "embedlink": "https://www.youtube.com/embed/Rid5Mj2J8xk"
+        },
+        {
+          "id": "13",
+          "caption": "Labon Ko",
+          "url": "https://i.ytimg.com/vi/Qbc1CMVyzzA/maxresdefault.jpg",
+          "embedlink": "https://www.youtube.com/embed/3OYrJWVx7F0"
+        },
+        {
+          "id": "14",
+          "caption": "Jeene Laga Hoon",
+          "url": "https://i.ytimg.com/vi/PNsXyZ2NOwk/maxresdefault.jpg",
+          "embedlink": "https://www.youtube.com/embed/4P7c8LRO0DU"
         }
       ],
       "id": 2
     }
   ],
-  "history": []
+  "history": [
+    {
+      "caption": "Sun Shine Love",
+      "embedlink": "https://www.youtube.com/embed/yNIdRjLJoVs",
+      "timeiStamp": "12/09/2023, 12:05:25 AM",
+      "id": 1
+    },
+    {
+      "caption": "Sun Shine Love",
+      "embedlink": "https://www.youtube.com/embed/yNIdRjLJoVs",
+      "timeiStamp": "12/09/2023, 12:38:27 AM",
+      "id": 2
+    },
+    {
+      "caption": "Sun Shine Love",
+      "embedlink": "https://www.youtube.com/embed/yNIdRjLJoVs",
+      "timeiStamp": "12/09/2023, 12:48:21 AM",
+      "id": 3
+    }
+  ]
 }
